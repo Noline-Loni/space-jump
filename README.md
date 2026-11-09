@@ -4,7 +4,7 @@ An endless retro pixel platformer that runs in the browser. Jump across platform
 
 **[Play it live](https://space-jump-ten.vercel.app)**
 
-<img src="assets/screenshot.png" alt="Space Jump gameplay: pixel character jumping across platforms in space" width="100%">
+<a href="https://space-jump-ten.vercel.app"><img src="assets/screenshot.png" alt="Space Jump gameplay: pixel character jumping across platforms in space" width="100%"></a>
 
 ## How to play
 
